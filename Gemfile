@@ -21,6 +21,7 @@ gem 'jbuilder',                '2.4.1'
 gem 'faker',                   '1.6.6'
 gem 'will_paginate',           '3.1.0'
 gem 'bootstrap-will_paginate', '0.0.10'
+gem 'sendgrid-rails',          '2.0'
 
 
 group :development, :test do
